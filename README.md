@@ -3,7 +3,7 @@ Blender addon for Pi3 3D reconstruction
 
 Input an image folder which contains single or multiple images, then you will get point could geometry nodes with material.
 
-This blender addon is based on [Pi3](https://github.com/yyfz/Pi3). Be careful that vggt is under non-commercial license.
+This blender addon is based on [Pi3](https://github.com/yyfz/Pi3). Be careful that Pi3 is under non-commercial license.
 
 ## Usage
 1. Download Pi3 model from operation panel.
@@ -27,4 +27,4 @@ This blender addon is based on [Pi3](https://github.com/yyfz/Pi3). Be careful th
 - cuda 12.6
 
 ## Notes
-You can start with sample_images in this repository. "ramen" folder contains one single image, and "dog" folder contains four images.
+You can start with samples in this repository which contains an image folder and a mp4 video.
